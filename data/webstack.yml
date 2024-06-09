@@ -1,0 +1,264 @@
+---
+
+- taxonomy: 交易所
+  icon: fas fa-home
+  list:
+    - term: CEX：中心化交易所
+      links:
+        - title: 币安
+          logo: binance.png
+          url: https://www.binance.com/zh-CN/activity/referral/offers/claim?ref=CPA_008X9TWFY3
+          description: 币安：全球最大交易所
+        - title: OKX
+          logo: okx.png
+          url: https://www.okx.com/zh-hans/join/34876135
+          description: 中国背景最大交易所
+        - title: Gate
+          logo: gate.png
+          url: https://www.gate.io/
+          description: 又名“芝麻开门”，华人常用的老牌山寨币交易所
+        - title: Whitebit
+          logo: whitebit.png
+          url: https://whitebit.com/
+          description: 欧洲最大交易所之一
+        - title: Coinbase
+          logo: coinbase.png
+          url: https://www.coinbase.com/
+          description: 美国最大合规交易所
+        - title: Bithumb
+          logo: bithumb.png
+          url: https://www.bithumb.com/
+          description: 韩国头部交易所
+        - title: CME
+          logo: cmegroup.png
+          url: https://www.cmegroup.com/
+          description: 最早合规的比特币期货交易所
+    - term: DEX：去中心交易所
+      links:
+        - title: GMX
+          logo: gmx.png
+          url: https://app.gmx.io/
+          description: 头部合约交易所
+        - title: UNISwap
+          logo: uniswap.png
+          url: https://uniswap.org/
+          description: 现货龙头DEX
+        - title: SuishiSwap
+          logo: sushi.png
+          url: https://www.sushi.com/
+          description: 多链头部DEX
+        - title: PanCakeSwap
+          logo: pancakeswap.png
+          url: https://pancakeswap.finance/
+          description: BSC现货龙头DEX
+        - title: DYDX
+          logo: dydx.png
+          url: https://dydx.exchange/
+          description: 头部合约交易所
+
+
+- taxonomy: 钱包
+  icon: fas fa-wallet
+  links: 
+    - title: imToken
+      logo: imtoken.png
+      url: https://token.im/
+      description: 国内最流行的综合钱包
+    - title: MetaMask
+      logo: metamask.png
+      url: https://metamask.io/
+      description: 全球最流行插件钱包
+    - title: TrustWallet
+      logo: trustwallet.png
+      url: https://trustwallet.com/
+      description: 币安旗下综合钱包
+    - title: TokenPockket
+      logo: tokenpocket.png
+      url: https://www.tokenpocket.pro/
+      description: 国内功能最全钱包
+
+
+- taxonomy: 媒体资讯
+  icon: fas fa-volume-down
+  links: 
+    - title: TradingView
+      logo: tradingview.png
+      url: https://cn.tradingview.com/
+      description: 最专业的交易员门户网
+    - title: 金色财经
+      logo: jinse.png
+      url: https://www.jinse.com/
+      description: 国内第一币圈快讯
+    - title: BitcoinTalk
+      logo: bitcointalk.png
+      url: https://bitcointalk.org/
+      description: 全球最大币圈论坛
+    - title: CoinDesk
+      logo: coindesk.png
+      url: https://www.coindesk.com/
+      description: 全球币圈综合门户
+    - title: Reddit
+      logo: reddit.png
+      url: https://www.reddit.com/t/bitcoin/
+      description: 国外热门的比特币讨论组
+
+
+- taxonomy: 公链
+  icon: fas fa-link
+  links: 
+    - title: Ethereum
+      logo: ethereum.png
+      url: https://ethereum.org/
+      description: 全球公链龙头
+    - title: BSC
+      logo: bnbchain.png
+      url: https://dappbay.bnbchain.org/
+      description: 第二大公链，币安旗下ETH侧链
+    - title: Tron
+      logo: tron.png
+      url: https://tron.network/
+      description: 第三大公链，创始人孙宇晨
+    - title: Solana
+      logo: solana.png
+      url: https://solana.com/
+      description: 美国最大公链
+    - title: Cardano
+      logo: cardano.png
+      url: https://cardano.org/
+      description: 日本最大公链
+    - title: Polygon
+      logo: polygon.png
+      url: https://polygon.technology/
+      description: 印度最大公链
+    - title: Wemix
+      logo: wemix.png
+      url: https://www.wemix.com/
+      description: 真实玩家最多的游戏公链
+    - title: Arbitrum
+      logo: arbitrum.png
+      url: https://portal.arbitrum.io/
+      description: 最大L2公链
+    - title: Optimism
+      logo: optimism.png
+      url: https://www.optimism.io/
+      description: 第二大L2公链
+
+
+- taxonomy: NFT
+  icon: fab fa-linux
+  links: 
+    - title: OpenSea
+      logo: opensea.png
+      url: https://opensea.io/
+      description: 全球最知名NFT交易平台
+    - title: Blur
+      logo: blur.png
+      url: https://blur.io/
+      description: 支持NFT碎片化交易和交易挖矿
+    - title: CryptoPunks
+      logo: cryptopunks.png
+      url: https://cryptopunks.app/
+      description: NFT的祖宗
+    - title: BAYC
+      logo: boredapeyachtclub.png
+      url: https://boredapeyachtclub.com/
+      description: 目前最大最活跃的NFT项目
+    - title: NFTGo
+      logo: nftgo.png
+      url: https://nftgo.io/
+      description: 国人最常用的NFT大数据站
+    - title: RarityTools
+      logo: raritytools.png
+      url: https://rarity.tools/
+      description: 最火的NFT发行+发现站
+
+
+- taxonomy: 大数据
+  icon: fas fa-globe
+  links: 
+    - title: 头号联盟
+      logo: thlm.png
+      url: https://thlm.com/
+      description: 精品区块链游戏推荐和攻略大全
+    - title: BTC TOOLS
+      logo: btctools.png
+      url: https://btctools.pro/
+      description: 简单易用的BRC20生态导航站
+    - title: BTByte
+      logo: btbyte.png
+      url: https://btbyte.com/
+      description: 全网最新最全的比特币生态项目导航
+    - title: Dune
+      logo: dune.png
+      url: https://dune.com/
+      description: 最强币圈项目大数据
+    - title: TokenUnlock
+      logo: tokenunlocks.png
+      url: https://token.unlocks.app/
+      description: 代币解锁大数据
+    - title: Coinmarketcap
+      logo: coinmarketcap.png
+      url: https://coinmarketcap.com/
+      description: 最知名币圈大数据
+    - title: DappRadar
+      logo: dappradar.png
+      url: https://dappradar.com/
+      description: 知名Dapp大数据
+    - title: BFC
+      logo: bitinfocharts.png
+      url: https://bitinfocharts.com/
+      description: 专业POW公链大数据
+    - title: Nansen
+      logo: nansen.png
+      url: https://www.nansen.ai/
+      description: 最强钱包追踪分析
+    - title: DeBank
+      logo: debank.png
+      url: https://debank.com/
+      description: 最好用的钱包追踪分析
+
+
+- taxonomy: 撸毛空投
+  icon: far fa-smile
+  links: 
+    - title: 5sim
+      logo: 5sim.png
+      url: https://5sim.net/zh
+      description: 最好用的接码平台，几乎可接全球所有国家的短信
+    - title: PROXY6
+      logo: proxy6.png
+      url: https://proxy6.net/
+      description: 性价比最高的全球静态IP池
+    - title: 很多号
+      logo: henduohao.png
+      url: https://www.henduohao.com/
+      description: 出各种邮箱和社交媒体账号
+
+
+- taxonomy: 杂货铺
+  icon: fas fa-calendar-alt
+  links: 
+    - title: Cointool
+      logo: cointool.png
+      url: https://cointool.app/
+      description: 币圈最全工具集合站
+    - title: 中本聪骰子
+      logo: zbcsz.png
+      url: https://www.satoshidice.com/
+      description: 区块链行业第一个游戏
+    - title: 谜恋猫
+      logo: cryptokitties.png
+      url: https://www.cryptokitties.co/
+      description: ETH上第一款DAPP游戏
+    - title: ENS
+      logo: ens.png
+      url: https://ens.domains/
+      description: 首个Web3域名，支持.ETH后缀
+    - title: Snapshot
+      logo: snapshot.png
+      url: https://snapshot.org/
+      description: 最大链上投票平台
+    - title: 传奇4
+      logo: mir4global.png
+      url: https://mir4global.com/
+      description: 当前真实付费用户最多的链游      
